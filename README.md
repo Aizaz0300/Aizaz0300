@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Muhammad Aizaz
+# 👋 Hi, I'm Muhammad Aizaz
 
 I'm a **Full Stack Developer** passionate about building scalable, efficient, and modern web applications. With expertise in both frontend and backend technologies, I create seamless user experiences and robust backend solutions. 🚀
 
