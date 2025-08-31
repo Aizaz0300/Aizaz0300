@@ -5,14 +5,37 @@ I'm a **Full Stack Developer** passionate about building scalable, efficient, an
 ## 💻 Technologies & Tools
 
 ### Frontend
-- **React** | **Next.js**  
-  Building responsive, interactive, and dynamic user interfaces with modern React-based frameworks.
+- **React.js & Next.js**  
+  I specialize in building fast, responsive web applications using **React.js** and **Next.js**. These frameworks help me create dynamic, SEO-friendly websites that deliver smooth, interactive user experiences.
+
+- **TypeScript**  
+  I use **TypeScript** to make my code safer and easier to maintain, ensuring better collaboration and fewer bugs in large-scale applications.
+
+- **State Management**  
+  Managing state in complex applications with tools like **Redux** and **React Context** to ensure seamless data flow and consistency across components.
+
+- **Web Performance Optimization**  
+  I focus on making websites fast, using techniques like lazy loading and code splitting to improve load times and the overall user experience.
+
+- **Testing & Debugging**  
+  I ensure my code is reliable by writing tests using tools like **Jest** and **Cypress**. This helps catch bugs early and ensures everything works as expected.
 
 ### Backend
 - **Python** | **FastAPI**  
-  Fast and high-performance APIs using Python and FastAPI for quick development and deployment.
+  I build fast, high-performance APIs using **Python** with **FastAPI**. FastAPI offers automatic interactive API documentation and is known for its speed and support for asynchronous operations, perfect for building scalable backends.
+
 - **Node.js** | **Express.js**  
-  Building server-side applications and RESTful APIs with TypeScript / JavaScript and Node.js.
+  Building robust, scalable RESTful APIs with **Node.js** and **Express.js**. I create server-side applications with **JavaScript** or **TypeScript**, ensuring high scalability and modularity in the backend code.
+
+- **GraphQL APIs**  
+  I implement **GraphQL APIs** for more flexible and powerful querying, providing clients with only the data they need while reducing the number of requests.
+
+- **SQL Databases** (PostgreSQL, MySQL, SQLite)  
+  Experienced in building and managing relational databases like **PostgreSQL**, **MySQL**, and **SQLite**. I design and optimize schemas, write efficient SQL queries, and ensure data integrity through relational models.
+
+- **NoSQL Databases** (MongoDB, Firebase)  
+  Familiar with working with **MongoDB** and **Firebase**, using them for scalable, schema-less data storage when high availability and fast access are crucial.
+
 
 ### DevOps & Cloud
 - **GitHub Actions & Workflows**  
