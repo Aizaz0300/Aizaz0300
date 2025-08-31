@@ -12,7 +12,7 @@ I'm a **Full Stack Developer** passionate about building scalable, efficient, an
 - **Python** | **FastAPI**  
   Fast and high-performance APIs using Python and FastAPI for quick development and deployment.
 - **Node.js** | **Express.js**  
-  Building server-side applications and RESTful APIs with JavaScript and Node.js.
+  Building server-side applications and RESTful APIs with TypeScript / JavaScript and Node.js.
 
 ### DevOps & Cloud
 - **GitHub Actions & Workflows**  
